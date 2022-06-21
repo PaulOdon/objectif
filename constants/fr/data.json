@@ -1,0 +1,510 @@
+{ 
+    "paul": {
+        "nom": "ANDRIANANTENAINA",
+        "prenom": "Paul Odon",
+        "accroche": "Développeur",
+        "spacialite": "Web & mobile",
+        "legende":" Après avoir passé 5 ans de formation d'ingéniorat auprès de l'école d'ingéniorat, j'ai toutes les brique nécessaire pour le développement d'un logiciel, de la conception jusqu'au déploiement ",
+        "img_path": "/assets/paul/paul.png",
+        "skills": [
+            {
+                "id": 1,
+                "technologie" : "HTML & CSS",
+                "concepts": "flexbox, MUI, Bootstrap, Tailwind, SCSS",
+                "pourcentage": 90
+            },
+            {
+                "id": 2,
+                "technologie" : "Javascript & TypeScript",
+                "concepts": "POO, ES6, ES7",
+                "pourcentage": 70
+            },
+            {
+                "id": 3,
+                "technologie" : "NodeJS",
+                "concepts": "ExpressJS, NestJS",
+                "pourcentage": 75
+            },
+            {
+                "id": 4,
+                "technologie" : "Swift",
+                "concepts": "UIKit, Swift UI, Delegate Pattern, AppStore, TestFlight",
+                "pourcentage": 50
+            },
+            {
+                "id": 5,
+                "technologie" : "ReactJS",
+                "concepts": "Library ReactJS, NextJs, Functional component",
+                "pourcentage": 50
+            },
+            {
+                "id": 6,
+                "technologie" : "Angular",
+                "concepts": "Composant, DataBinding, Rxjs",
+                "pourcentage": 60
+            }
+        ],
+        "links": {
+            "FACEBOOK": "https://web.facebook.com/andrianantenaina.paul.odon",
+            "LINKEDIN": "https://www.linkedin.com/in/paul-odon-andrianantenaina-17ab07175/",
+            "AUTRE":"https://dribbble.com/paulodon"
+        },
+        "experiences": [
+            {
+                "id": 1,
+                "date_debut": "Avril 2022",
+                "date_fin": "Ajourd'hui",
+                "poste_occupe": "Développeur FullStackJs",
+                "societe": "HAISOA",
+                "description_poste": "Assurer le développement des applciations web et mobile, Analyser et concevoir les systèmes, Faire la maquette graphique avec figma",
+                "technologies": "Nestjs, Nextjs, MongoDB, Figma",
+                "image_src": "https://images.unsplash.com/photo-1638225437870-1090bc859162?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8M2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+                "image_alt": "Logo de l'entreprise HAISOA"
+            },
+            {
+                "id": 2,
+                "date_debut": "Mars 2021",
+                "date_fin": "Mars 2022",
+                "poste_occupe": "Développeur iOS",
+                "societe": "Livenexx",
+                "description_poste": "Assurer le développement des fonctionnalités des applications mobiles iOS avec SWIFT, Analyser les API nécessaires pour le bon fonctionnement de l'application mobile, déployer l'application sur TestFlight et sur AppStore, améliorer les design de l'application",
+                "technologies": "Swift (UIKit&Storyboard, Foundation, Alamofire), React Native, Symfony, MariaDB",
+                "image_src": "https://images.unsplash.com/photo-1638225437870-1090bc859162?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8M2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+                "image_alt": "Logo de l'entreprise Livenexx"
+            }
+        ],
+        "trainings": [
+            {
+                "id": 1,
+                "year": "1997",
+                "diploma": "...",
+                "school": ""
+            },
+            {
+                "id": 2,
+                "year": "2015",
+                "diploma": "Bacclauréat série D",
+                "school": "Lycée Catholique  Fo Masin’i Jesoa Talatamaty"
+            },
+            {
+                "id":3,
+                "year": "2018",
+                "diploma": "Licence professionnelle en informatique ",
+                "school": "Ecole Nationale d’Informatique"
+            },
+            {
+                "id":4,
+                "year": "2021",
+                "diploma": "Master Professionnelle en informatique / Ingéniorat en informatique",
+                "school": "Ecole Nationale d’Informatique"
+            },
+            {
+                "id":5,
+                "year": "2022",
+                "diploma": "Loading ...",
+                "school": ""
+            }
+        ],
+        "achievements": [
+            {
+                "id":1,
+                "title": "titre du portfolio",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor dictum egestas quis massa. Ultrices varius tortor in in rhoncus sapien, eros.",
+                "url": "https://www.google.com",
+                "repository": "https://www.github.com",
+                "background": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=815&q=80"
+            }
+        ],
+        "cv_file_path":"./public/paul/CV_Paul_Odon.pdf",
+        "cv_file_name": "CV_Paul_Odon",
+        "contacts": {
+            "num1": "0324537684",
+            "num2": "0342862206",
+            "email1": "andrianantenainapaulodon@gmail.com",
+            "email2": "paulandrianante@gmail.com",
+            "address1": "IAB48 Andrononobe Antananarivo",
+            "address2": "0307/720 Soanierana Fianarantsoa"
+        }
+    },
+    "ogino": {
+        "nom": "SOANDRONORIELA",
+        "prenom": "Ogino Basile",
+        "accroche": "Développeur",
+        "spacialite": "Web & mobile",
+        "legende":" Après avoir passé 5 ans de formation d'ingéniorat auprès de l'école d'ingéniorat, j'ai toutes les brique nécessaire pour le développement d'un logiciel, de la conception jusqu'au déploiement ",
+        "img_path": "/assets/ogino/ogino.PNG",
+        "skills": [
+            {
+                "id": 1,
+                "technologie" : ";;;;;",
+                "concepts": "flexbox, MUI, Bootstrap, Tailwind, SCSS",
+                "pourcentage": 90
+            },
+            {
+                "id": 2,
+                "technologie" : "Javascript & TypeScript",
+                "concepts": "POO, ES6, ES7",
+                "pourcentage": 70
+            },
+            {
+                "id": 3,
+                "technologie" : "NodeJS",
+                "concepts": "ExpressJS, NestJS",
+                "pourcentage": 75
+            },
+            {
+                "id": 4,
+                "technologie" : "Swift",
+                "concepts": "UIKit, Swift UI, Delegate Pattern, AppStore, TestFlight",
+                "pourcentage": 50
+            },
+            {
+                "id": 5,
+                "technologie" : "ReactJS",
+                "concepts": "Library ReactJS, NextJs, Functional component",
+                "pourcentage": 50
+            },
+            {
+                "id": 6,
+                "technologie" : "Angular",
+                "concepts": "Composant, DataBinding, Rxjs",
+                "pourcentage": 60
+            }
+        ],
+        "links": {
+            "FACEBOOK": "https://web.facebook.com/andrianantenaina.paul.odon",
+            "LINKEDIN": "https://www.linkedin.com/in/paul-odon-andrianantenaina-17ab07175/",
+            "AUTRE":"https://dribbble.com/paulodon"
+        },
+        "experinces": [
+            {
+                "id": 1,
+                "date_debut": "Avril 2022",
+                "date_fin": "Ajourd'hui",
+                "poste_occupe": "Développeur FullStackJs",
+                "societe": "HAISOA",
+                "description_poste": "Assurer le développement des applciations web et mobile, Analyser et concevoir les systèmes, Faire la maquette graphique avec figma",
+                "technologies": "Nestjs, Nextjs, MongoDB, Figma",
+                "image_src": "https://images.unsplash.com/photo-1638225437870-1090bc859162?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8M2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+                "image_alt": "Logo de l'entreprise HAISOA"
+            },
+            {
+                "id": 2,
+                "date_debut": "Mars 2021",
+                "date_fin": "Mars 2022",
+                "poste_occupe": "Développeur iOS",
+                "societe": "Livenexx",
+                "description_poste": "Assurer le développement des fonctionnalités des applications mobiles iOS avec SWIFT, Analyser les API nécessaires pour le bon fonctionnement de l'application mobile, déployer l'application sur TestFlight et sur AppStore, améliorer les design de l'application",
+                "technologies": "Swift (UIKit&Storyboard, Foundation, Alamofire), React Native, Symfony, MariaDB",
+                "image_src": "https://images.unsplash.com/photo-1638225437870-1090bc859162?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8M2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+                "image_alt": "Logo de l'entreprise Livenexx"
+            }
+        ],
+        "trainings": [
+            {
+                "id": 1,
+                "year": "1997",
+                "diploma": "...",
+                "school": ""
+            },
+            {
+                "id": 2,
+                "year": "2015",
+                "diploma": "Bacclauréat série D",
+                "school": "Lycée Catholique  Fo Masin’i Jesoa Talatamaty"
+            },
+            {
+                "id":3,
+                "year": "2018",
+                "diploma": "Licence professionnelle en informatique ",
+                "school": "Ecole Nationale d’Informatique"
+            },
+            {
+                "id":4,
+                "year": "2021",
+                "diploma": "Master Professionnelle en informatique / Ingéniorat en informatique",
+                "school": "Ecole Nationale d’Informatique"
+            },
+            {
+                "id":5,
+                "year": "2022",
+                "diploma": "Loading ...",
+                "school": ""
+            }
+        ],
+        "achievements": [
+            {
+                "id":1,
+                "title": "titre du portfolio",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor dictum egestas quis massa. Ultrices varius tortor in in rhoncus sapien, eros.",
+                "url": "https://www.google.com",
+                "repository": "https://www.github.com",
+                "background": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=815&q=80"
+            }
+        ],
+        "cv_file_path":"./public/paul/CV_Paul_Odon.pdf",
+        "cv_file_name": "CV_Paul_Odon",
+        "contacts": {
+            "num1": "0324537684",
+            "num2": "0342862206",
+            "email1": "andrianantenainapaulodon@gmail.com",
+            "email2": "paulandrianante@gmail.com",
+            "address1": "IAB48 Andrononobe Antananarivo",
+            "address2": "0307/720 Soanierana Fianarantsoa"
+        }
+    },
+    "rolker": {
+        "nom": "ANDRIANJAFY",
+        "prenom": "Helio Jean Rolker",
+        "accroche": "Développeur",
+        "spacialite": "Web && C# && Réalité virtuelle",
+        "legende":" Après avoir passé 5 ans de formation d'ingéniorat auprès de l'école d'ingéniorat, j'ai toutes les brique nécessaire pour le développement d'un logiciel, de la conception jusqu'au déploiement ",
+        "img_path": "/assets/rolker/rolker.PNG",
+        "skills": [
+            {
+                "id": 1,
+                "technologie" : "HTML & CSS",
+                "concepts": "flexbox, MUI, Bootstrap, Tailwind, SCSS",
+                "pourcentage": 90
+            },
+            {
+                "id": 2,
+                "technologie" : "Javascript & TypeScript",
+                "concepts": "POO, ES6, ES7",
+                "pourcentage": 70
+            },
+            {
+                "id": 3,
+                "technologie" : "NodeJS",
+                "concepts": "ExpressJS, NestJS",
+                "pourcentage": 75
+            },
+            {
+                "id": 4,
+                "technologie" : "Swift",
+                "concepts": "UIKit, Swift UI, Delegate Pattern, AppStore, TestFlight",
+                "pourcentage": 50
+            },
+            {
+                "id": 5,
+                "technologie" : "ReactJS",
+                "concepts": "Library ReactJS, NextJs, Functional component",
+                "pourcentage": 50
+            },
+            {
+                "id": 6,
+                "technologie" : "Angular",
+                "concepts": "Composant, DataBinding, Rxjs",
+                "pourcentage": 60
+            }
+        ],
+        "links": {
+            "FACEBOOK": "https://web.facebook.com/andrianantenaina.paul.odon",
+            "LINKEDIN": "https://www.linkedin.com/in/paul-odon-andrianantenaina-17ab07175/",
+            "AUTRE":"https://dribbble.com/paulodon"
+        },
+        "experinces": [
+            {
+                "id": 1,
+                "date_debut": "Avril 2022",
+                "date_fin": "Ajourd'hui",
+                "poste_occupe": "Développeur FullStackJs",
+                "societe": "HAISOA",
+                "description_poste": "Assurer le développement des applciations web et mobile, Analyser et concevoir les systèmes, Faire la maquette graphique avec figma",
+                "technologies": "Nestjs, Nextjs, MongoDB, Figma",
+                "image_src": "https://images.unsplash.com/photo-1638225437870-1090bc859162?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8M2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+                "image_alt": "Logo de l'entreprise HAISOA"
+            },
+            {
+                "id": 2,
+                "date_debut": "Mars 2021",
+                "date_fin": "Mars 2022",
+                "poste_occupe": "Développeur iOS",
+                "societe": "Livenexx",
+                "description_poste": "Assurer le développement des fonctionnalités des applications mobiles iOS avec SWIFT, Analyser les API nécessaires pour le bon fonctionnement de l'application mobile, déployer l'application sur TestFlight et sur AppStore, améliorer les design de l'application",
+                "technologies": "Swift (UIKit&Storyboard, Foundation, Alamofire), React Native, Symfony, MariaDB",
+                "image_src": "https://images.unsplash.com/photo-1638225437870-1090bc859162?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8M2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+                "image_alt": "Logo de l'entreprise Livenexx"
+            }
+        ],
+        "trainings": [
+            {
+                "id": 1,
+                "year": "1997",
+                "diploma": "...",
+                "school": ""
+            },
+            {
+                "id": 2,
+                "year": "2015",
+                "diploma": "Bacclauréat série D",
+                "school": "Lycée Catholique  Fo Masin’i Jesoa Talatamaty"
+            },
+            {
+                "id":3,
+                "year": "2018",
+                "diploma": "Licence professionnelle en informatique ",
+                "school": "Ecole Nationale d’Informatique"
+            },
+            {
+                "id":4,
+                "year": "2021",
+                "diploma": "Master Professionnelle en informatique / Ingéniorat en informatique",
+                "school": "Ecole Nationale d’Informatique"
+            },
+            {
+                "id":5,
+                "year": "2022",
+                "diploma": "Loading ...",
+                "school": ""
+            }
+        ],
+        "achievements": [
+            {
+                "id":1,
+                "title": "titre du portfolio",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor dictum egestas quis massa. Ultrices varius tortor in in rhoncus sapien, eros.",
+                "url": "https://www.google.com",
+                "repository": "https://www.github.com",
+                "background": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=815&q=80"
+            }
+        ],
+        "cv_file_path":"./public/paul/CV_Paul_Odon.pdf",
+        "cv_file_name": "CV_Paul_Odon",
+        "contacts": {
+            "num1": "0324537684",
+            "num2": "0342862206",
+            "email1": "andrianantenainapaulodon@gmail.com",
+            "email2": "paulandrianante@gmail.com",
+            "address1": "IAB48 Andrononobe Antananarivo",
+            "address2": "0307/720 Soanierana Fianarantsoa"
+        }
+    },
+    "mac": {
+        "nom": "RABETO",
+        "prenom": "Mac Carthy",
+        "accroche": "Développeur",
+        "spacialite": "Web & mobile",
+        "legende":" Après avoir passé 5 ans de formation d'ingéniorat auprès de l'école d'ingéniorat, j'ai toutes les brique nécessaire pour le développement d'un logiciel, de la conception jusqu'au déploiement ",
+        "img_path": "/assets/mac/mac.PNG",
+        "skills": [
+            {
+                "id": 1,
+                "technologie" : "HTML & CSS",
+                "concepts": "flexbox, MUI, Bootstrap, Tailwind, SCSS",
+                "pourcentage": 90
+            },
+            {
+                "id": 2,
+                "technologie" : "Javascript & TypeScript",
+                "concepts": "POO, ES6, ES7",
+                "pourcentage": 70
+            },
+            {
+                "id": 3,
+                "technologie" : "NodeJS",
+                "concepts": "ExpressJS, NestJS",
+                "pourcentage": 75
+            },
+            {
+                "id": 4,
+                "technologie" : "Swift",
+                "concepts": "UIKit, Swift UI, Delegate Pattern, AppStore, TestFlight",
+                "pourcentage": 50
+            },
+            {
+                "id": 5,
+                "technologie" : "ReactJS",
+                "concepts": "Library ReactJS, NextJs, Functional component",
+                "pourcentage": 50
+            },
+            {
+                "id": 6,
+                "technologie" : "Angular",
+                "concepts": "Composant, DataBinding, Rxjs",
+                "pourcentage": 60
+            }
+        ],
+        "links": {
+            "FACEBOOK": "https://web.facebook.com/andrianantenaina.paul.odon",
+            "LINKEDIN": "https://www.linkedin.com/in/paul-odon-andrianantenaina-17ab07175/",
+            "AUTRE":"https://dribbble.com/paulodon"
+        },
+        "experinces": [
+            {
+                "id": 1,
+                "date_debut": "Avril 2022",
+                "date_fin": "Ajourd'hui",
+                "poste_occupe": "Développeur FullStackJs",
+                "societe": "HAISOA",
+                "description_poste": "Assurer le développement des applciations web et mobile, Analyser et concevoir les systèmes, Faire la maquette graphique avec figma",
+                "technologies": "Nestjs, Nextjs, MongoDB, Figma",
+                "image_src": "https://images.unsplash.com/photo-1638225437870-1090bc859162?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8M2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+                "image_alt": "Logo de l'entreprise HAISOA"
+            },
+            {
+                "id": 2,
+                "date_debut": "Mars 2021",
+                "date_fin": "Mars 2022",
+                "poste_occupe": "Développeur iOS",
+                "societe": "Livenexx",
+                "description_poste": "Assurer le développement des fonctionnalités des applications mobiles iOS avec SWIFT, Analyser les API nécessaires pour le bon fonctionnement de l'application mobile, déployer l'application sur TestFlight et sur AppStore, améliorer les design de l'application",
+                "technologies": "Swift (UIKit&Storyboard, Foundation, Alamofire), React Native, Symfony, MariaDB",
+                "image_src": "https://images.unsplash.com/photo-1638225437870-1090bc859162?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8M2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+                "image_alt": "Logo de l'entreprise Livenexx"
+            }
+        ],
+        "trainings": [
+            {
+                "id": 1,
+                "year": "1997",
+                "diploma": "...",
+                "school": ""
+            },
+            {
+                "id": 2,
+                "year": "2015",
+                "diploma": "Bacclauréat série D",
+                "school": "Lycée Catholique  Fo Masin’i Jesoa Talatamaty"
+            },
+            {
+                "id":3,
+                "year": "2018",
+                "diploma": "Licence professionnelle en informatique ",
+                "school": "Ecole Nationale d’Informatique"
+            },
+            {
+                "id":4,
+                "year": "2021",
+                "diploma": "Master Professionnelle en informatique / Ingéniorat en informatique",
+                "school": "Ecole Nationale d’Informatique"
+            },
+            {
+                "id":5,
+                "year": "2022",
+                "diploma": "Loading ...",
+                "school": ""
+            }
+        ],
+        "achievements": [
+            {
+                "id":1,
+                "title": "titre du portfolio",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor dictum egestas quis massa. Ultrices varius tortor in in rhoncus sapien, eros.",
+                "url": "https://www.google.com",
+                "repository": "https://www.github.com",
+                "background": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=815&q=80"
+            }
+        ],
+        "cv_file_path":"./public/paul/CV_Paul_Odon.pdf",
+        "cv_file_name": "CV_Paul_Odon",
+        "contacts": {
+            "num1": "0324537684",
+            "num2": "0342862206",
+            "email1": "andrianantenainapaulodon@gmail.com",
+            "email2": "paulandrianante@gmail.com",
+            "address1": "IAB48 Andrononobe Antananarivo",
+            "address2": "0307/720 Soanierana Fianarantsoa"
+        }
+    }
+}

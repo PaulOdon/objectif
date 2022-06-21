@@ -1,0 +1,33 @@
+{
+    "DOWNLOAD_CV_BUTTON": "Télécharger mon CV",
+    "sidebar": [
+        {
+            "path": "/about",
+            "title": "A propos"
+        },
+        {
+            "path": "/skills",
+            "title": "Mes compétences"
+        },
+        {
+            "path": "/experiences",
+            "title": "Mes expériences"
+        },
+        {
+            "path": "/trainings",
+            "title": "Mes formations"
+        },
+        {
+            "path": "/achievements",
+            "title": "Mes réalisations"
+        },
+        {
+            "path": "/contacts",
+            "title": "Mes contacts"
+        }
+    ],
+    "experience": {
+        "description_poste": "Description du poste",
+        "technologies": "Technologies utilisées"
+    }
+}
