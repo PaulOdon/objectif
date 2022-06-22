@@ -10,7 +10,7 @@ import { useRouter } from "next/router";
 const Footer = () => {
   const route = useRouter();
   const { name } = route.query;
-  const [selectedTeam, setSelectedTeam] = useState({});
+  const [selectedTeam, setSelectedTeam] = useState({} as any);
 
   useEffect(() => {
     switch (name) {
